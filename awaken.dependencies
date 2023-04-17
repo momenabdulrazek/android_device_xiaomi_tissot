@@ -1,0 +1,16 @@
+
+[
+  {
+    "remote": "github",
+    "repository": "momenabdulrazek/android_device_xiaomi_tissot",
+    "target_path": "device/xiaomi/tissot",
+    "branch": "awaken13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "Lafactorial/device_xiaomi_msm8953-common",
+    "target_path": "device/xiaomi/msm8953-common",
+    "branch": "Derp"
+  }
+ 
+]
